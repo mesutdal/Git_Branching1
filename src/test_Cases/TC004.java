@@ -1,7 +1,9 @@
 package test_Cases;
 
 public class TC004 {
-    // test lines
+    // test line 1
 
-    // test lines 2
+    // test line 2
+
+    // test line 3
 }
